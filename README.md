@@ -96,9 +96,8 @@ The IDR (= 1 / inter-spike interval, in pulses per second) is computed for two r
 ```
 IDR = 1 / ISI     [pps]
 
-![graph](Images/1_3.PNG)
-
 ```
+![graph](Images/1_3.PNG)
 
 ---
 
@@ -117,10 +116,8 @@ For each motor unit the peak-to-peak amplitude across all 16 channels is compute
 ```
 P2P = max(waveform) − min(waveform)
 
-![Visualize](Images/3.1.PNG)
-
 ```
-
+![Visualize](Images/3.1.PNG)
 ---
 
 ### Task 3.2 — Amplitude vs Recruitment Order
@@ -130,10 +127,8 @@ The maximum P2P amplitude is plotted against recruitment order as a scatter char
 ```
 r = Pearson correlation between recruitment order and max P2P amplitude
 
-![Visualize](Images/3.2.PNG)
-
 ```
-
+![Visualize](Images/3.2.PNG)
 ---
 
 ### Task 4.1 — Recruitment and De-recruitment Force Thresholds
@@ -156,10 +151,8 @@ The RMS of each MU's MUAP waveform is computed for every electrode channel and d
 ```
 RMS = sqrt(mean(waveform²))
 
-![Visualize](Images/4.2.PNG)
-
 ```
-
+![Visualize](Images/4.2.PNG)
 ---
 
 ## Results
