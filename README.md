@@ -97,7 +97,7 @@ The IDR (= 1 / inter-spike interval, in pulses per second) is computed for two r
 IDR = 1 / ISI     [pps]
 
 ```
-![graph](Images/1_3.PNG)
+![graph](Images/1.3.PNG)
 
 ---
 
