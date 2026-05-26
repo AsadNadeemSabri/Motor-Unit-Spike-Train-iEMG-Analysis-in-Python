@@ -86,7 +86,7 @@ All motor unit spike trains are plotted as a vertical-line raster on the left y-
 
 Motor units are re-ordered by their first firing sample (recruitment order, earliest to latest) and the raster is re-plotted alongside the force signal.
 
-![Visualize](Images/1.2.PNG)
+![graph1](Images/1.2.PNG)
 ---
 
 ### Task 1.3 — Instantaneous Discharge Rate (IDR)
@@ -96,7 +96,7 @@ The IDR (= 1 / inter-spike interval, in pulses per second) is computed for two r
 ```
 IDR = 1 / ISI     [pps]
 
-![Visualize](Images/1_3.PNG)
+![graph](Images/1_3.PNG)
 
 ```
 
